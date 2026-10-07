@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "skill-redes",
+  "description": "La skill de redes en español para Claude",
+  "owner": {
+    "name": "David García",
+    "url": "https://iaquetrabaja.com"
+  },
+  "plugins": [
+    {
+      "name": "redes",
+      "description": "Una skill con 13 modos para TikTok e Instagram en español: ganchos puntuados, hoja de ritmo, referencias virales, revisor de textos y humanizador.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/iaquetrabaja/skill-redes"
+    }
+  ]
+}
